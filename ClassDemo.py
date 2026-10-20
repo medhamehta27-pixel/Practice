@@ -1,7 +1,7 @@
 # Class, Constructor and self
 
 class Computer:
-    pass
+    
 
 
 c1= Computer()
